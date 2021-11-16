@@ -21,7 +21,7 @@ function Robes({ Component, pageProps }) {
           rel="stylesheet"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:creator" content="@0xGhostPepper" />
+        <meta name="twitter:creator" content="@ShrimpPepe" />
         <meta property="og:url" content="https://cockrings.market" />
         <meta property="og:title" content="cockrings.market" />
         <link rel="icon" type="image/png" href="/favicon.png" />
