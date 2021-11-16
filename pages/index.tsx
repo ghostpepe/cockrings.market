@@ -64,10 +64,10 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
           . cockrings.market for Bloot by{' '}
           <a
             target="_blank"
-            href="https://twitter.com/0xGhostPepper"
+            href="https://twitter.com/ShrimpPepe"
             className="underline"
           >
-            ghostpepper
+            shrimp pepe
           </a>
           .
         </p>
